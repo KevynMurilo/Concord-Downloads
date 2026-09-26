@@ -1,10 +1,17 @@
 # Concord para Windows
 
-Baixe a versão mais recente em [Releases](https://github.com/KevynMurilo/Concord-Downloads/releases/latest).
+Baixe a versão mais recente em [Releases](https://github.com/KevynMurilo/Concord-Downloads/releases/latest). Há um instalador para Windows 10/11 x64 e um executável portátil.
 
-- **Setup**: instala o Concord no Windows 10/11 x64.
-- **Portable**: executável portátil, sem instalador.
+O Concord funciona na bandeja. Fechar a janela mantém a chamada ativa. Na primeira abertura, informe o endereço HTTPS do servidor fornecido pelo administrador da comunidade; o instalador não inclui endereço, IP ou senha.
 
-O Concord fica na bandeja. Fechar a janela não encerra a chamada. Em Configurações, você escolhe se a janela também deve se ocultar ao perder o foco; essa opção vem desligada. O compartilhamento oferece qualidade automática para grupos maiores e perfis manuais. A transmissão atual ainda envia uma cópia da mídia a cada participante.
+## Na chamada
 
-Na primeira abertura, informe o endereço HTTPS do servidor fornecido pelo administrador da comunidade. O aplicativo não inclui endereço, IP ou senha. Os executáveis ainda não têm assinatura digital comercial, portanto o Windows pode mostrar um aviso de editor desconhecido. O código-fonte fica em um repositório privado.
+- Voz, chat temporário e compartilhamento de tela ou janela. O volume da transmissão é separado do volume das vozes.
+- Medidor de captação local do microfone, sons opcionais de entrada, saída e início de transmissão, notificações e atalhos configuráveis.
+- Pressionar para falar funciona enquanto a janela do Concord está em foco. Em jogos com foco, use o atalho global de mutar/desmutar.
+- A qualidade automática reduz a captura em salas maiores. Há perfis de até 1080p/30 e 1080p/60 FPS para até três pessoas; os FPS reais dependem do computador e da rede.
+- Transmissões recebidas podem abrir em tela cheia. A prévia da própria tela não é ampliada para evitar captura em loop; ao transmitir um monitor, a ampliação fica indisponível até parar ou trocar para uma janela.
+
+O servidor guarda apenas metadados da sala em H2. Chat não tem histórico no servidor; voz e vídeo usam WebRTC direto entre participantes ou TURN quando necessário. Cada transmissor envia uma cópia por espectador, por isso grupos maiores exigem mais upload. Conteúdo protegido por DRM pode aparecer preto; o Concord não contorna essa proteção.
+
+Os executáveis não têm assinatura digital comercial, então o Windows pode exibir um aviso de editor desconhecido. O código-fonte fica em um repositório privado.
