@@ -8,7 +8,7 @@ O Concord funciona na bandeja. Fechar a janela mantém a chamada ativa. Na prime
 
 - Voz, chat temporário e compartilhamento de tela ou janela. O volume da transmissão é separado do volume das vozes.
 - Medidor de captação local do microfone, sons opcionais de entrada, saída e início de transmissão, notificações e atalhos configuráveis.
-- Pressionar para falar funciona enquanto a janela do Concord está em foco. Em jogos com foco, use o atalho global de mutar/desmutar.
+- Pressionar para falar funciona enquanto a janela do Concord está em foco. Com um jogo em foco, o atalho global do microfone alterna transmissão e silêncio. A aba Atalhos mostra se cada combinação foi registrada; Ctrl+Insert é o padrão para abrir ou ocultar a janela. Jogos em tela cheia exclusiva podem bloquear atalhos do Windows.
 - A qualidade automática reduz a captura em salas maiores. Há perfis de até 1080p/30 e 1080p/60 FPS para até três pessoas; os FPS reais dependem do computador e da rede.
 - Transmissões recebidas podem abrir em tela cheia. A prévia da própria tela não é ampliada para evitar captura em loop; ao transmitir um monitor, a ampliação fica indisponível até parar ou trocar para uma janela.
 
