@@ -1,6 +1,6 @@
 # Concord para Windows
 
-**Versão atual:** [1.3.12](https://github.com/KevynMurilo/Concord-Downloads/releases/tag/v1.3.12).
+**Versão atual:** [1.3.13](https://github.com/KevynMurilo/Concord-Downloads/releases/tag/v1.3.13).
 
 Baixe a versão mais recente em [Releases](https://github.com/KevynMurilo/Concord-Downloads/releases/latest). Há um instalador para Windows 10/11 x64 e um executável portátil. Ao terminar a instalação, o instalador oferece abrir o Concord.
 
@@ -11,6 +11,8 @@ O Concord funciona na bandeja. Fechar a janela mantém a chamada ativa. Na prime
 A partir do instalador 1.3.9, o Concord procura novas versões ao abrir e a cada seis horas. Quando houver uma nova release, o aplicativo mostra um aviso na bandeja. Você escolhe quando baixar e quando reiniciar para instalar; o progresso aparece em **Configurações > Aplicativo**. O programa não encerra uma chamada sem sua confirmação.
 
 Quem já usa **1.3.8 ou anterior precisa instalar manualmente a versão atual uma vez**, pois essas versões não possuem atualizador. O EXE portátil continua com atualização manual. Para cada nova versão funcionar no atualizador, a release precisa trazer o instalador e o arquivo `latest.yml` correspondente. O instalador ainda não tem assinatura digital comercial.
+
+Na versão 1.3.13, a janela ampliada organiza participantes na lateral e oferece Foco ou Grade para várias câmeras e telas. Vídeos recebidos podem flutuar em Picture-in-Picture para outro monitor quando o sistema permitir. Dois participantes podem compartilhar e ampliar a transmissão um do outro; o Concord solicita ao Windows que exclua sua própria janela da captura para evitar loop. Em Configurações > Áudio, ajuste o volume e o limite de ativação do microfone e escolha o estilo e volume dos avisos.
 
 ## Na chamada
 
