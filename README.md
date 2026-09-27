@@ -10,7 +10,7 @@ O Concord funciona na bandeja. Fechar a janela mantém a chamada ativa. Na prime
 
 A partir do instalador 1.3.9, o Concord procura novas versões ao abrir e a cada seis horas. Quando houver uma nova release, o aplicativo mostra um aviso na bandeja. Você escolhe quando baixar e quando reiniciar para instalar; o progresso aparece em **Configurações > Aplicativo**. O programa não encerra uma chamada sem sua confirmação.
 
-Quem já usa **1.3.8 ou anterior precisa instalar 1.3.9 manualmente uma vez**, pois essas versões não possuem atualizador. O EXE portátil continua com atualização manual. Para cada nova versão funcionar no atualizador, a release precisa trazer o instalador e o arquivo `latest.yml` correspondente. O instalador ainda não tem assinatura digital comercial.
+Quem já usa **1.3.8 ou anterior precisa instalar manualmente a versão atual uma vez**, pois essas versões não possuem atualizador. O EXE portátil continua com atualização manual. Para cada nova versão funcionar no atualizador, a release precisa trazer o instalador e o arquivo `latest.yml` correspondente. O instalador ainda não tem assinatura digital comercial.
 
 ## Na chamada
 
