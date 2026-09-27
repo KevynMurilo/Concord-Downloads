@@ -1,6 +1,6 @@
 # Concord para Windows
 
-**Versão atual:** [1.3.11](https://github.com/KevynMurilo/Concord-Downloads/releases/tag/v1.3.11).
+**Versão atual:** [1.3.12](https://github.com/KevynMurilo/Concord-Downloads/releases/tag/v1.3.12).
 
 Baixe a versão mais recente em [Releases](https://github.com/KevynMurilo/Concord-Downloads/releases/latest). Há um instalador para Windows 10/11 x64 e um executável portátil. Ao terminar a instalação, o instalador oferece abrir o Concord.
 
